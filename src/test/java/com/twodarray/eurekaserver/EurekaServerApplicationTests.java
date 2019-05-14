@@ -1,4 +1,4 @@
-package com.darray.eurekaserver;
+package com.twodarray.eurekaserver;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
